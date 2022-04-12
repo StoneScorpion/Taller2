@@ -1,0 +1,8 @@
+Lista de pasos para el despliegue del entregable:
+1.- Tener instalado el navegador Firefox para poder realizar el análisis de la página el Espectador.
+2.- Abrir el archivo "parte1-webScrapping" e ir ejecutando los script secuencialmente, antes de ejecutar el script número 6 se debe crear una base de datos en Robo 3T.
+3.- Después de tener la base de datos creada, seguir ejecutando los scripts del archivo con normalidad. 
+4.- Al terminar de ejecutar todos los scripts del archivo, abrir "parte2-lenguajeNatural" e ir ejecutando de forma secuencial todos los scripts.
+
+Link del video explicativo en Youtube:
+https://youtu.be/6AaHvRIFEvY
